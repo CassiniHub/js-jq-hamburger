@@ -1,9 +1,4 @@
-$('.fa-bars').click(function () {
-   
-   $('.hamburger-menu').toggleClass('active');
-});
-
-$('.close').click(function () {
+$('.close, .fa-bars').click(function () {
    
    $('.hamburger-menu').toggleClass('active');
 });
