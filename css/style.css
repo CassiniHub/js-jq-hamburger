@@ -62,10 +62,6 @@ header {
    background: #2B3F58;
 }
 
-.display{
-   display: block;
-};
-
 .hamburger-menu ul {
    display: flex;
    height: 100%;
